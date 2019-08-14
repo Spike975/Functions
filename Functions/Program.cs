@@ -1,9 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace Functions
 {
     class Program
@@ -25,7 +20,6 @@ namespace Functions
             printScore(14);
             printScore(1512);
             Console.ReadKey();
-
         }
         public int addToScore(int add)
         {
